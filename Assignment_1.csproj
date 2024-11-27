@@ -58,7 +58,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AnalyticalApplication.cs" />
     <Compile Include="AnalyticalTool.cs" />
     <Compile Include="Calculator.cs" />
     <Compile Include="FindCommonElement.cs" />
